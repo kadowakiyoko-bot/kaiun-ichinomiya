@@ -1,0 +1,228 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Primary: 鳥居朱 */
+  --color-torii-900: #6B1810;
+  --color-torii-700: #8F2618;
+  --color-torii-500: #BB3D20;
+  --color-torii-300: #D8795C;
+  --color-torii-100: #F5DDD8;
+  --color-torii-50: #FBF1EE;
+
+  /* Accent: 金 */
+  --color-gold-700: #A07A10;
+  --color-gold-500: #D4AF37;
+  --color-gold-300: #E8D080;
+  --color-gold-100: #F9F0C8;
+
+  /* Neutral: 和の白・墨 */
+  --color-washi: #FDFAF5;
+  --color-offwhite: #FAF6F0;
+  --color-ink-900: #1A1008;
+  --color-ink-700: #3D2B1A;
+  --color-ink-500: #7A6555;
+  --color-ink-300: #B5A899;
+  --color-ink-100: #E8E2DB;
+
+  /* Semantic */
+  --color-success: #2D6A4F;
+  --color-success-light: #D8F3DC;
+  --color-warning: #D4A017;
+  --color-warning-light: #FFF3CD;
+  --color-error: #9B2226;
+  --color-error-light: #FFE5E5;
+
+  /* Special: 霧 */
+  --color-kiri-300: #C8D8DD;
+  --color-kiri-100: #EDF4F6;
+
+  --font-sans: "Noto Sans JP", "Hiragino Sans", sans-serif;
+  --font-serif: "Noto Serif JP", "Hiragino Mincho ProN", "YuMincho", serif;
+}
+
+/* 和紙風の背景 */
+.washi-bg {
+  background-color: var(--color-washi);
+  background-image:
+    radial-gradient(circle at 20% 30%, rgba(187, 61, 32, 0.04) 0%, transparent 60%),
+    radial-gradient(circle at 80% 70%, rgba(212, 175, 55, 0.05) 0%, transparent 55%),
+    radial-gradient(circle at 50% 100%, rgba(107, 24, 16, 0.03) 0%, transparent 50%);
+}
+
+/* 千鳥格子（微かな模様） */
+.chidori-bg {
+  background-color: var(--color-offwhite);
+  background-image:
+    linear-gradient(45deg, rgba(187, 61, 32, 0.04) 25%, transparent 25%),
+    linear-gradient(-45deg, rgba(187, 61, 32, 0.04) 25%, transparent 25%);
+  background-size: 12px 12px;
+}
+
+/* 注連縄風の区切り線 */
+.shimenawa {
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    var(--color-torii-500) 0%,
+    var(--color-gold-500) 50%,
+    var(--color-torii-500) 100%
+  );
+  border-radius: 2px;
+}
+
+/* 見出し用明朝 */
+.font-serif {
+  font-family: var(--font-serif);
+}
+
+/* 朱ボタンのグラデ */
+.btn-torii {
+  background: linear-gradient(135deg, var(--color-torii-500), var(--color-torii-700));
+  color: white;
+  box-shadow: 0 2px 8px rgba(187, 61, 32, 0.3);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.btn-torii:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(187, 61, 32, 0.4);
+}
+.btn-torii:active {
+  transform: translateY(0);
+}
+
+/* カード */
+.torii-card {
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid var(--color-torii-100);
+  border-radius: 16px;
+  box-shadow: 0 1px 3px rgba(26, 16, 8, 0.05);
+  backdrop-filter: blur(4px);
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+}
+.torii-card:hover {
+  border-color: var(--color-gold-500);
+  box-shadow: 0 4px 14px rgba(187, 61, 32, 0.10), 0 0 0 1px rgba(212, 175, 55, 0.2);
+}
+
+/* ご利益バッジ */
+.goriyaku-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 500;
+  color: white;
+  white-space: nowrap;
+}
+
+/* 鳥居アイコン（簡易SVG代替のCSS） */
+.torii-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background: currentColor;
+  mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M2 4h20v2H18v14h-2v-8H8v8H6V6H2V4zm6 4v4h8V8H8z'/></svg>");
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: contain;
+  -webkit-mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M2 4h20v2H18v14h-2v-8H8v8H6V6H2V4zm6 4v4h8V8H8z'/></svg>");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  -webkit-mask-size: contain;
+}
+
+/* Leafletカスタム */
+.leaflet-container {
+  border-radius: 16px;
+  border: 2px solid rgba(212, 175, 55, 0.3);
+}
+.leaflet-popup-content-wrapper {
+  border-radius: 12px !important;
+  border: 1px solid rgba(187, 61, 32, 0.25) !important;
+  box-shadow: 0 6px 20px rgba(187, 61, 32, 0.15) !important;
+}
+.leaflet-popup-content {
+  margin: 12px 16px !important;
+  font-family: var(--font-sans) !important;
+}
+
+/* スタンプ獲得アニメーション */
+@keyframes stamp-press {
+  0% { transform: scale(0.5) rotate(-15deg); opacity: 0; }
+  50% { transform: scale(1.3) rotate(5deg); opacity: 1; }
+  100% { transform: scale(1) rotate(-8deg); opacity: 1; }
+}
+.stamp-acquired {
+  animation: stamp-press 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+@keyframes gauge-fill {
+  from { width: 0; }
+  to { width: var(--gauge-target, 0%); }
+}
+.gauge-bar {
+  animation: gauge-fill 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Reduced motion 対応 */
+@media (prefers-reduced-motion: reduce) {
+  .stamp-acquired {
+    animation: none;
+    opacity: 1;
+    transform: scale(1) rotate(-8deg);
+  }
+  .gauge-bar {
+    animation: none;
+    width: var(--gauge-target, 0%);
+  }
+  .torii-card {
+    transition: none;
+  }
+  .btn-torii {
+    transition: none;
+  }
+}
+
+/* スクロールバー */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: var(--color-offwhite);
+  border-radius: 3px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: linear-gradient(var(--color-torii-300), var(--color-gold-300));
+  border-radius: 3px;
+}
+
+/* アクセス難易度バッジ */
+.diff-易 {
+  background: #E8F5E9;
+  color: #2D6A4F;
+  border: 1px solid #A5D6A7;
+}
+.diff-中 {
+  background: #FFF8E1;
+  color: #8B5E00;
+  border: 1px solid #FFD95B;
+}
+.diff-難 {
+  background: #FDEEEE;
+  color: #9B2226;
+  border: 1px solid #F4B8B8;
+}
+
+/* スタンプ風表現 */
+.stamp-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-torii-500);
+  border: 3px solid var(--color-torii-500);
+  border-radius: 50%;
+  font-family: var(--font-serif);
+  font-weight: 900;
+  background: rgba(187, 61, 32, 0.06);
+  transform: rotate(-8deg);
+}
