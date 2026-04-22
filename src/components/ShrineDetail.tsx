@@ -74,22 +74,24 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
           </div>
         </div>
 
-        {/* タブ */}
-        <div className="border-b border-torii-100 overflow-x-auto">
-          <div className="flex px-3 gap-1">
+        {/* タブ（5列均等・中央揃え） */}
+        <div className="border-b border-torii-100 bg-white/40">
+          <div className="grid grid-cols-5">
             {TABS.map((t) => (
               <button
                 key={t.key}
                 type="button"
                 onClick={() => setTab(t.key)}
-                className={`px-3 md:px-4 py-3 text-xs md:text-sm font-medium whitespace-nowrap border-b-2 ${
+                className={`flex flex-col items-center justify-center gap-0.5 py-2.5 md:py-3 text-[10px] md:text-xs font-medium border-b-2 transition-colors ${
                   tab === t.key
-                    ? "border-torii-500 text-torii-700 font-bold"
-                    : "border-transparent text-ink-500 hover:text-ink-700"
+                    ? "border-torii-500 text-torii-700 font-bold bg-torii-50/60"
+                    : "border-transparent text-ink-500 hover:text-torii-700 hover:bg-torii-50/30"
                 }`}
               >
-                <span className="mr-1">{t.icon}</span>
-                {t.label}
+                <span className="text-base md:text-lg leading-none" aria-hidden>
+                  {t.icon}
+                </span>
+                <span className="leading-tight">{t.label}</span>
               </button>
             ))}
           </div>
