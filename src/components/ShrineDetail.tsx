@@ -35,17 +35,48 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
         className="bg-washi rounded-t-3xl md:rounded-3xl w-full max-w-2xl max-h-[92vh] overflow-hidden shadow-2xl flex flex-col"
         onClick={(e) => e.stopPropagation()}
       >
-        {/* ヘッダー */}
-        <div className="relative p-5 md:p-6 bg-gradient-to-br from-torii-50 to-gold-100 border-b border-torii-100">
+        {/* ヒーロー画像 */}
+        <div className="relative w-full h-44 md:h-56 shrink-0 bg-gradient-to-br from-torii-500 to-torii-700 flex items-center justify-center overflow-hidden">
+          {shrine.imageUrl ? (
+            // eslint-disable-next-line @next/next/no-img-element
+            <img
+              src={shrine.imageUrl}
+              alt={shrine.name}
+              className="w-full h-full object-cover"
+              onError={(e) => {
+                (e.currentTarget as HTMLImageElement).style.display = "none";
+              }}
+            />
+          ) : (
+            <span className="text-7xl text-white/70" aria-hidden>
+              ⛩
+            </span>
+          )}
+          {/* 朱グラデのオーバーレイで文字が映える下地 */}
+          <div className="absolute inset-0 bg-gradient-to-t from-ink-900/50 to-transparent pointer-events-none" />
           <button
             type="button"
             onClick={onClose}
             aria-label="閉じる"
-            className="absolute top-3 right-3 w-8 h-8 rounded-full bg-white/90 hover:bg-white flex items-center justify-center text-ink-500 shadow"
+            className="absolute top-3 right-3 w-9 h-9 rounded-full bg-white/90 hover:bg-white flex items-center justify-center text-ink-700 shadow-md z-10"
           >
             ✕
           </button>
+          {shrine.imageAttribution && shrine.imageSourcePage && (
+            <a
+              href={shrine.imageSourcePage}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="absolute bottom-2 right-3 text-[9px] text-white/85 hover:text-white bg-ink-900/40 px-2 py-0.5 rounded-full backdrop-blur-sm"
+              onClick={(e) => e.stopPropagation()}
+            >
+              {shrine.imageAttribution}
+            </a>
+          )}
+        </div>
 
+        {/* ヘッダー */}
+        <div className="relative p-5 md:p-6 bg-gradient-to-br from-torii-50 to-gold-100 border-b border-torii-100">
           <p className="text-[11px] text-gold-700 font-bold tracking-wider">
             {shrine.旧国} 一宮 ・ {shrine.都道府県}
           </p>

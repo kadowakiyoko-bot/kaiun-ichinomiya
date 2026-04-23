@@ -64,6 +64,12 @@ export interface Shrine {
   ベストシーズン: Season;
   セット参拝コース: string[];
   一人旅アクセス: SoloAccess;
+  imageUrl?: string | null;
+  imageWidth?: number;
+  imageHeight?: number;
+  imageSource?: string | null;
+  imageSourcePage?: string;
+  imageAttribution?: string | null;
 }
 
 export interface StampRecord {

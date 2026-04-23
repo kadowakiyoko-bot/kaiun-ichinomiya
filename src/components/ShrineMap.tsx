@@ -126,8 +126,13 @@ export default function ShrineMap({
         )
         .join("");
 
+      const thumb = shrine.imageUrl
+        ? `<div style="width:100%;height:120px;margin:-12px -16px 10px;border-radius:12px 12px 0 0;overflow:hidden;background:linear-gradient(135deg,#BB3D20,#6B1810);position:relative"><img src="${shrine.imageUrl}" alt="${shrine.name}" style="width:100%;height:100%;object-fit:cover"/><div style="position:absolute;inset:0;background:linear-gradient(to top,rgba(26,16,8,0.3),transparent 40%)"></div></div>`
+        : `<div style="width:100%;height:80px;margin:-12px -16px 10px;border-radius:12px 12px 0 0;background:linear-gradient(135deg,#BB3D20,#6B1810);display:flex;align-items:center;justify-content:center;color:white;font-size:32px">⛩</div>`;
+
       const popup = `
-        <div style="min-width:220px;max-width:280px;font-family:sans-serif">
+        <div style="min-width:240px;max-width:280px;font-family:sans-serif;overflow:hidden">
+          ${thumb}
           <div style="font-size:15px;font-weight:bold;color:#6B1810;margin-bottom:2px">${shrine.name}</div>
           <div style="font-size:11px;color:#7A6555">${shrine.読み}</div>
           <div style="font-size:12px;color:#7A6555;margin-top:4px">${shrine.都道府県}・${shrine.旧国}</div>

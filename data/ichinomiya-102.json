@@ -97,7 +97,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "JR鹿島神宮駅から徒歩10分、駅前・参道商店街も活気あり昼は安心。東京駅発の高速バスが約1時間50分で直通、所要時間が読めて一人旅に優しい。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kashima-jingu_haiden-1.JPG/960px-Kashima-jingu_haiden-1.JPG",
+    "imageWidth": 600,
+    "imageHeight": 394,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B3%B6%E7%A5%9E%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "002",
@@ -191,7 +197,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "JR香取駅からは徒歩30分と距離あり。JR佐原駅から循環バス約13分or タクシー10分が現実的。車の方がスムーズ、無料駐車場は十分。電車派は「佐原経由＋バス」を想定しておくと安心。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Katori-jingu_haiden_shomen.JPG/960px-Katori-jingu_haiden_shomen.JPG",
+    "imageWidth": 600,
+    "imageHeight": 397,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%A6%99%E5%8F%96%E7%A5%9E%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "003",
@@ -283,7 +295,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "JR相模線「宮山駅」から徒歩5分。駅前は落ち着いた住宅街で静か、参道も整備されていて一人歩き安全。海老名駅からJR相模線乗換で約10分とアクセス良好。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_Samukawa_Shrine_02.jpg/960px-The_Samukawa_Shrine_02.jpg",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%AF%92%E5%B7%9D%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "004",
@@ -375,7 +393,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "JR大宮駅東口から徒歩15分（参道経由）。大宮は都市駅で終日人通り多く明るく安全。駅周辺にカフェ・ショッピングも充実、女性一人旅の王道コース。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hikawa-jinja_%28Saitama%29%2C_keidai.jpg/960px-Hikawa-jinja_%28Saitama%29%2C_keidai.jpg",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%B0%B7%E5%B7%9D%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "005",
@@ -467,7 +491,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "上信電鉄「上州一ノ宮駅」から徒歩10〜15分。駅周辺は静かな地方町で治安良好。ただし上信電鉄は本数少なめ（1時間1〜2本）、事前に時刻表確認必須。帰りの電車を逃さないよう注意。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ichinomiya_Nukisaki-jinja%2C_shaden-1.jpg/960px-Ichinomiya_Nukisaki-jinja%2C_shaden-1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%B8%80%E4%B9%8B%E5%AE%AE%E8%B2%AB%E5%89%8D%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "006",
@@ -566,7 +596,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "JR上総一ノ宮駅から徒歩7分。東京駅から特急わかしお直通約75分、乗り換え不要で快適。駅周辺は静かな海辺の町で昼間は安心。参拝後は九十九里浜まで徒歩圏内。帰りの特急の時刻を事前確認しておくと安心。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tamasaki-jinja.jpg/960px-Tamasaki-jinja.jpg",
+    "imageWidth": 600,
+    "imageHeight": 412,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%8E%89%E5%89%8D%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "007",
@@ -662,7 +698,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "館山駅からJRバスで約20分、バス停「安房神社前」から徒歩5〜10分。バスの本数は少なめのため事前に時刻表確認必須。タクシーは館山駅前に常駐（片道約1,500円程度）。境内と参道は静かな郊外の神社で治安良好。洲崎神社とのセット参拝は車またはタクシー利用が便利。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Awa-jinja%2C_haiden2.jpg/960px-Awa-jinja%2C_haiden2.jpg",
+    "imageWidth": 600,
+    "imageHeight": 431,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%AE%89%E6%88%BF%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "008",
@@ -754,7 +796,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中〜難",
       "女性一人歩き安全性コメント": "JRバス洲崎線は1日数本のみで事前確認が必須。タクシー（館山駅から約20分・片道約2,000〜2,500円）が確実で快適。レンタカー利用なら安房神社・洲崎神社・南房総観光が1日で回れる。神社周辺は人が少なく静かだが、治安は良好。バスで来た場合は帰りのバス時刻を絶対に把握しておくこと。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Susaki-jinja_%28Tateyama%29%2C_haiden-1.jpg/960px-Susaki-jinja_%28Tateyama%29%2C_haiden-1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%B4%B2%E5%B4%8E%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "009",
@@ -850,7 +898,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "東北新幹線「宇都宮駅」から徒歩15分、都市部の中心に位置し日中は人通りが多く安全。駅前にはバス・タクシーも充実。餃子店・カフェも多く、一人旅女性の立ち寄りスポットが豊富。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/ja/thumb/e/e4/%E5%AE%87%E9%83%BD%E5%AE%AE%E4%BA%8C%E8%8D%92%E5%B1%B1%E7%A5%9E%E7%A4%BE_%E6%8B%9D%E6%AE%BF.JPG/960px-%E5%AE%87%E9%83%BD%E5%AE%AE%E4%BA%8C%E8%8D%92%E5%B1%B1%E7%A5%9E%E7%A4%BE_%E6%8B%9D%E6%AE%BF.JPG",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%83%BD%E5%AE%AE%E4%BA%8C%E8%8D%92%E5%B1%B1%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "010",
@@ -944,7 +998,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "浅草から東武特急「スペーシア」で約2時間直通で快適。東武日光駅から神社まではバス（約10分）またはタクシー。山内は世界遺産エリアのため観光客が多く日中は安全。混雑シーズン（紅葉・GW）は電車利用が断然ラク。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nikko_Futarasan_Jinja_M3292.jpg/960px-Nikko_Futarasan_Jinja_M3292.jpg",
+    "imageWidth": 600,
+    "imageHeight": 359,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%97%A5%E5%85%89%E4%BA%8C%E8%8D%92%E5%B1%B1%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "011",
@@ -1037,7 +1097,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "東京から電車1本で約55分と抜群のアクセス。鎌倉駅から徒歩10分で、駅〜八幡宮間の若宮大路・小町通りは昼間人通りが多く非常に安全。大人気観光地のため案内板・観光案内所が充実。一人旅女性が最も安心して参拝できる一宮のひとつ。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TsurugaokaHachimangu_by_ulysses_powers_in_Kamakura.jpg/960px-TsurugaokaHachimangu_by_ulysses_powers_in_Kamakura.jpg",
+    "imageWidth": 600,
+    "imageHeight": 401,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E5%B2%A1%E5%85%AB%E5%B9%A1%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "012",
@@ -1133,7 +1199,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "秩父鉄道「秩父駅」から徒歩3分。池袋から西武特急ラビューで約80分と都心からのアクセス良好。秩父の町並みは落ち着いた地方都市で治安良好。夜祭（12月）は混雑するが警備体制も充実。一人旅女性にも安心な参拝地。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chichibu-jinja_ac_%284%29.jpg/960px-Chichibu-jinja_ac_%284%29.jpg",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "013",
@@ -1236,7 +1308,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "円山公園駅から境内まで明るい公園道・参道を歩く。昼夜ともに安全。夜は閉門があるため日中参拝を推奨。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hokkaido_Jingu.JPG/960px-Hokkaido_Jingu.JPG",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E7%A5%9E%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "014",
@@ -1328,7 +1406,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "バスで直接アクセス可能。バス停から神社まではすぐ。参道は整備されており昼間は安全。バスの本数が少ないため時刻表の確認必須。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Iwakiyama_Shrine_haiden2.jpeg/960px-Iwakiyama_Shrine_haiden2.jpeg",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9C%A8%E5%B1%B1%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "015",
@@ -1420,7 +1504,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "水沢駅から徒歩20分、または公園内を歩く。昼間は安全。夜間は公園内が暗くなるため日没前の参拝を推奨。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Komagata-jinja_%28Oshu%29_haiden.JPG/960px-Komagata-jinja_%28Oshu%29_haiden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 398,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%A7%92%E5%BD%A2%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "016",
@@ -1512,7 +1602,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "水郡線で直接アクセス可能。駅から参道・社殿まで整備された道を歩く。昼間は安全。水郡線の本数が少ないため時刻表確認必須。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tsutsukowake-jinja_%28Baba%29_shaden-1.JPG/960px-Tsutsukowake-jinja_%28Baba%29_shaden-1.JPG",
+    "imageWidth": 600,
+    "imageHeight": 392,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%83%BD%E3%80%85%E5%8F%A4%E5%88%A5%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "017",
@@ -1596,7 +1692,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "近津駅からすぐのアクセス。参道は整備されており昼間は安全。水郡線の本数が少ないため時刻表確認必須。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tsutsukowake-jinja_%28Baba%29_shaden-1.JPG/960px-Tsutsukowake-jinja_%28Baba%29_shaden-1.JPG",
+    "imageWidth": 600,
+    "imageHeight": 392,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%83%BD%E3%80%85%E5%8F%A4%E5%88%A5%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "018",
@@ -1691,7 +1793,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "仙台から電車30分で到着。駅から参道は整備されており昼間は安全。表参道の207段石段が急なため、スニーカー・歩きやすい靴を推奨。東参道（緩やか）利用も可。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Shiogama-shrine1.JPG",
+    "imageWidth": 568,
+    "imageHeight": 426,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%B9%BD%E7%AB%88%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "019",
@@ -1784,7 +1892,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "会津高田駅から2km・徒歩25分またはバス利用。のどかな田園地帯を歩くルート。昼間は安全。只見線・バスとも本数が少ないため時刻表の事前確認が必須。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Isasumi-jinja_roumon.JPG/960px-Isasumi-jinja_roumon.JPG",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BD%90%E9%A0%88%E7%BE%8E%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "020",
@@ -1880,7 +1994,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中（吹浦口之宮は易・蕨岡口之宮は難）",
       "女性一人歩き安全性コメント": "吹浦口之宮は吹浦駅から徒歩5分で電車一人旅向き。蕨岡口之宮は駅から離れており要タクシー・レンタカー。羽越本線は本数が少ないため時刻表確認必須。夜間は周辺が暗いため日中参拝を推奨。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Sanchou-Gohonsha_from_Choukai_caldera.JPG/960px-Sanchou-Gohonsha_from_Choukai_caldera.JPG",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E6%B5%B7%E5%B1%B1%E5%A4%A7%E7%89%A9%E5%BF%8C%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "021",
@@ -1971,7 +2091,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "磐城石川駅から徒歩10分でアクセス可能。境内入口から本殿まで山道10分は昼間安全だが、足元に注意（スニーカー推奨）。水郡線は本数が少ないため時刻表確認必須。御朱印受付時間が厳格なため午前中の参拝を推奨。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Iwatsutsukowake_Shrine.jpeg/960px-Iwatsutsukowake_Shrine.jpeg",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E9%83%BD%E3%80%85%E5%8F%A4%E5%92%8C%E6%B0%97%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "022",
@@ -2058,7 +2184,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "難",
       "女性一人歩き安全性コメント": "佐渡島内の路線バスは本数が少ない。事前に時刻表確認必須。島内はレンタカーまたはタクシー利用が現実的。夜間の1人行動は避け宿泊施設を事前確保のこと。島自体は治安良好で女性ひとり旅者も多い。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Watatsu-jinja.JPG/960px-Watatsu-jinja.JPG",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%BA%A6%E6%B4%A5%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "023",
@@ -2157,7 +2289,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "弥彦駅から神社まで整備された参道を徒歩10分。参道沿いに商店・食事処が多く人通りがある。弥彦温泉の宿泊施設も充実しており、1泊女性ひとり旅に最も適した越後一宮。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Iyahiko-jinja_1.JPG/960px-Iyahiko-jinja_1.JPG",
+    "imageWidth": 600,
+    "imageHeight": 393,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%BD%8C%E5%BD%A6%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "024",
@@ -2245,7 +2383,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "北陸新幹線の停車駅・糸魚川駅から徒歩10分。昼間の参拝は安全で問題なし。駅周辺に飲食店・観光案内所があり情報収集も容易。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Amatsu-jinja_%28Itoigawa%29%2C_haiden.jpg/960px-Amatsu-jinja_%28Itoigawa%29%2C_haiden.jpg",
+    "imageSource": "Wikimedia Commons",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%B4%A5%E7%A5%9E%E7%A4%BE%20%28%E7%B3%B8%E9%AD%9A%E5%B7%9D%E5%B8%82%29"
   },
   {
     "id": "025",
@@ -2332,7 +2476,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "直江津駅からバス利用が現実的（徒歩25分は遠い）。バスの本数が少ないため時刻表の事前確認必須。昼間の参拝は安全。タクシー利用も選択肢（直江津駅から約10分）。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kota-jinja_%28Joetsu%29_shaden.JPG/960px-Kota-jinja_%28Joetsu%29_shaden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 398,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%B1%85%E5%A4%9A%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "026",
@@ -2419,7 +2569,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "JR城端線とバスを組み合わせることで公共交通でアクセス可能。バスの本数が少ないため事前に時刻表確認必須。神社周辺は落ち着いた農村地帯で安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Takase_Shrine_haiden.jpeg/960px-Takase_Shrine_haiden.jpeg",
+    "imageWidth": 600,
+    "imageHeight": 391,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%AB%98%E7%80%AC%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "027",
@@ -2507,7 +2663,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "伏木駅からの徒歩20分は少し距離があるが、整備された住宅地を歩く安全なルート。高岡駅からのバス・タクシー利用が現実的。昼間参拝は安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Keta-taisha_keidai.JPG/960px-Keta-taisha_keidai.JPG",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%B0%97%E5%A4%9A%E5%A4%A7%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "028",
@@ -2593,7 +2755,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "前立社壇：易 / 峰本社：難（登山装備・体力必要）",
       "女性一人歩き安全性コメント": "前立社壇は岩峅寺駅から徒歩10分で安全・容易。峰本社（山頂）は標高3003mの本格登山コースで女性一人での登山は十分な登山経験と装備が必要。アルペンルート（室堂まで）は観光ルートで女性1人でも安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20_Tateyama_from_Mikurigaike_1998-7-17.jpg/960px-20_Tateyama_from_Mikurigaike_1998-7-17.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%9B%84%E5%B1%B1%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "029",
@@ -2683,7 +2851,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "高岡駅から徒歩10分。古城公園内は整備された歩道があり安全。昼間は観光客も多く女性ひとりでも安心。高岡市は観光インフラが整っており一人旅しやすい。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Imizu-jinja_haiden.JPG/960px-Imizu-jinja_haiden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%B0%84%E6%B0%B4%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "030",
@@ -2769,7 +2943,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "羽咋駅からバス利用で安全。バスの本数が少ないため時刻表の事前確認必須。神社周辺は整備された参道があり昼間の一人参拝は安全。能登半島は2024年地震後の復興途中（2026年現在）のため、交通・施設情報を最新情報で確認のこと。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Keta-taisha_keidai.JPG/960px-Keta-taisha_keidai.JPG",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%B0%97%E5%A4%9A%E5%A4%A7%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "031",
@@ -2862,7 +3042,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "金沢から電車＋バスで気軽にアクセスできる。バス停から参道まで整備された歩道で安全。参道沿いに飲食店・お土産店があり一人旅でも楽しめる。「恋のしらやまさんきっぷ」を使えば交通費もお得。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/ja/thumb/d/d0/%E7%99%BD%E5%B1%B1%E6%AF%94%E5%92%A9%E7%A5%9E%E7%A4%BE_%E5%A4%96%E6%8B%9D%E6%AE%BF.JPG/960px-%E7%99%BD%E5%B1%B1%E6%AF%94%E5%92%A9%E7%A5%9E%E7%A4%BE_%E5%A4%96%E6%8B%9D%E6%AE%BF.JPG",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%99%BD%E5%B1%B1%E6%AF%94%E5%92%A9%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "032",
@@ -2959,7 +3145,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "北陸新幹線開業（2024年）でアクセスが大幅改善した。敦賀駅からバスまたは徒歩20分。昼間は観光客も多く安全。周遊バスを使えば敦賀観光をセットで楽しめる。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kehi-jingu_otorii-2.jpg/960px-Kehi-jingu_otorii-2.jpg",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%B0%A3%E6%AF%94%E7%A5%9E%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "033",
@@ -3051,7 +3243,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "JR小浜線の本数が少ない（1〜2時間に1本）ため時刻表の事前確認必須。上社は東小浜駅から徒歩圏内で安全。下社は10分程度。昼間の参拝は問題なし。小浜市内の食事処・宿泊施設も整っている。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/101120_Wakasahiko-jinja_Obama_Fukui_pref_Japan07s5.jpg/960px-101120_Wakasahiko-jinja_Obama_Fukui_pref_Japan07s5.jpg",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E7%8B%AD%E5%BD%A6%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "034",
@@ -3144,7 +3342,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "飛騨一ノ宮駅から徒歩8分。高山市は世界的観光都市でインフラが充実。観光客が多く安全。JR高山駅から電車で10分という抜群のアクセス。高山観光と抱き合わせで女性ひとり旅に非常に適している。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Minashi-jinja_haiden.jpeg/960px-Minashi-jinja_haiden.jpeg",
+    "imageSource": "Wikimedia Commons",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%A3%9B%E9%A8%A8%E4%B8%80%E5%AE%AE%E6%B0%B4%E7%84%A1%E7%A5%9E%E7%A4%BE"
   },
   {
     "id": "035",
@@ -3257,7 +3461,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "新宿から特急あずさで2時間の好アクセス。下社（秋宮・春宮）は下諏訪駅から徒歩圏内。上社（本宮・前宮）はタクシーまたはバス利用が現実的。四社は車で1日で回れるが、電車＋タクシー組み合わせでも1泊2日で可能。観光地として整備されており女性一人旅に非常に安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Suwa-taisha%2C_Kamisha_Honmiya%2C_haiden-1.jpg/960px-Suwa-taisha%2C_Kamisha_Honmiya%2C_haiden-1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 392,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E5%A4%A7%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "036",
@@ -3350,7 +3560,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "山梨市駅からタクシーが現実的（10分・約2,000円程度）。高速バス「一宮」停留所からは徒歩10分で比較的アクセスしやすい。境内周辺は住宅地で昼間は安全。石和温泉（電車圏内）宿泊で翌日参拝するコースが女性一人旅に適している。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MtFuji_FujiCity.jpg/960px-MtFuji_FujiCity.jpg",
+    "imageWidth": 600,
+    "imageHeight": 337,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%B5%85%E9%96%93%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "037",
@@ -3445,7 +3661,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "三島駅から徒歩15分、昼間は参拝者が多く安全。周辺の源兵衛川散策路も整備されており一人歩きしやすい。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mishima-taisha_shaden.JPG/960px-Mishima-taisha_shaden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B6%8B%E5%A4%A7%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "038",
@@ -3540,7 +3762,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "富士宮駅から徒歩10分、市街地なので昼間は安全。周辺に飲食店多数で一人旅に最適。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fujinomiya_Hongu_Sengen_Taisha_Honden.jpg/960px-Fujinomiya_Hongu_Sengen_Taisha_Honden.jpg",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E6%9C%AC%E5%AE%AE%E6%B5%85%E9%96%93%E5%A4%A7%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "039",
@@ -3632,7 +3860,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "難",
       "女性一人歩き安全性コメント": "最寄り駅からのバスがなくタクシー必須。事前にタクシー会社に予約を入れておくと安心。神社周辺は観光客が多く安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Okuni-jinja_%28Mori%29%2C_haiden.jpg/960px-Okuni-jinja_%28Mori%29%2C_haiden.jpg",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9B%BD%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "040",
@@ -3726,7 +3960,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "掛川駅からバスで行けるが本数が少ないため時刻表の事前確認が必須。バス停から神社は目の前で安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kotonomama_Hachimangu_201708late_2.jpg/960px-Kotonomama_Hachimangu_201708late_2.jpg",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%BA%8B%E4%BB%BB%E5%85%AB%E5%B9%A1%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "041",
@@ -3821,7 +4061,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "名鉄国府駅から徒歩15分、住宅街の中で昼間は安全。夜間の一人歩きは避けること。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Toga-jinja%2C_haiden-2.jpg/960px-Toga-jinja%2C_haiden-2.jpg",
+    "imageWidth": 600,
+    "imageHeight": 398,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%A0%A5%E9%B9%BF%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "042",
@@ -3913,7 +4159,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "駅から徒歩5〜7分、商店街近くで安全。周辺にカフェ・喫茶店多数。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Masumida_Shrine_Haiden.jpg/960px-Masumida_Shrine_Haiden.jpg",
+    "imageWidth": 600,
+    "imageHeight": 401,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E6%B8%85%E7%94%B0%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "043",
@@ -3997,7 +4249,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "住宅街の中にあり迷いやすいが昼間は安全。宮司不在の場合があるため事前に電話確認すると確実。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Omiwa-jinja_haiden.JPG/960px-Omiwa-jinja_haiden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%9E%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "044",
@@ -4091,7 +4349,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "垂井駅から徒歩20分、中山道沿いで昼間は安全。夜間の単独歩きは避けること。関ヶ原まで歩くと約5kmあるため観光タクシーの利用が便利。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/ja/thumb/f/f6/%E5%8D%97%E5%AE%AE%E5%A4%A7%E7%A4%BE_%E5%A2%83%E5%86%85.JPG/960px-%E5%8D%97%E5%AE%AE%E5%A4%A7%E7%A4%BE_%E5%A2%83%E5%86%85.JPG",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%8D%97%E5%AE%AE%E5%A4%A7%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "045",
@@ -4185,7 +4449,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "佐那具駅から徒歩20分だが交通量の少ない道。伊賀上野駅からタクシー利用が便利で安心。昼間の境内は参拝者がおり安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Aekuni-jinja_haiden.JPG/960px-Aekuni-jinja_haiden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%95%A2%E5%9C%8B%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "046",
@@ -4282,7 +4552,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "最寄り駅からタクシー利用推奨。神社周辺は観光地として整備されており安全。タクシーは事前予約が確実。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tsubaki-shrine.jpg",
+    "imageWidth": 480,
+    "imageHeight": 640,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%A4%BF%E5%A4%A7%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "047",
@@ -4368,7 +4644,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "タクシーまたは椿大神社からの移動が便利。境内は小規模だが地元参拝者が多く安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tsubaki-jinja_Shaden1.jpg/960px-Tsubaki-jinja_Shaden1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 480,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%83%BD%E6%B3%A2%E5%B2%90%E7%A5%9E%E7%A4%BE%E3%83%BB%E5%A5%88%E5%8A%A0%E7%AD%89%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "048",
@@ -4452,7 +4734,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "上之郷駅から徒歩5分で非常にアクセスしやすい。志摩半島の奥地だが近鉄特急が直結しており安心。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izawa-no-miya_07.jpg/960px-Izawa-no-miya_07.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%9B%91%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "049",
@@ -4536,7 +4824,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "難",
       "女性一人歩き安全性コメント": "山道40分の往復は体力が必要。一人での参拝は明るい時間帯限定。スニーカー・飲み物・スマホ（GPS）持参必須。宮司不在の場合があるため事前確認を。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Izawa_jinja_Haiden.JPG/960px-Izawa_jinja_Haiden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%B0%84%E6%B3%A2%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "050",
@@ -4629,7 +4923,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "瀬田駅からバスまたは徒歩20分。昼間の参拝は安全。石山寺へのバスも充実しており一人旅に適している。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Takebe-shrine.jpg",
+    "imageWidth": 640,
+    "imageHeight": 480,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%BB%BA%E9%83%A8%E5%A4%A7%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "051",
@@ -4720,7 +5020,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "京都市バスで直行可能。バス停の目の前が神社で安全。周辺に和菓子店・カフェ多数で一人旅に最適な環境。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kamo-wakeikazuchi-jinja18n4272.jpg/960px-Kamo-wakeikazuchi-jinja18n4272.jpg",
+    "imageSource": "Wikimedia Commons",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E8%B3%80%E8%8C%82%E5%88%A5%E9%9B%B7%E7%A5%9E%E7%A4%BE"
   },
   {
     "id": "052",
@@ -4811,7 +5117,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "出町柳駅から徒歩10分、昼間は常に参拝者が多く非常に安全。糺の森の散策路も整備されており一人でも快適。周辺に人気カフェ・和菓子店多数。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/R%C5%8Dmon%2C_Shimogamo-jinja.jpg/960px-R%C5%8Dmon%2C_Shimogamo-jinja.jpg",
+    "imageSource": "Wikimedia Commons",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)",
+    "imageWidth": 600,
+    "imageHeight": 380,
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E8%B3%80%E8%8C%82%E5%BE%A1%E7%A5%96%E7%A5%9E%E7%A4%BE"
   },
   {
     "id": "053",
@@ -4912,7 +5224,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "三輪駅から境内まで5分の平坦な参道。日中は参拝者多数で安心。山の辺の道ハイキングは昼間のみ推奨。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Omiwa-jinja_haiden.JPG/960px-Omiwa-jinja_haiden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%9E%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "054",
@@ -5007,7 +5325,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "駅から境内まで2分と極めて近く、日中は安全。生駒山への登拝は明るい時間帯のみ推奨。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hiraoka-jinja%2C_honden-003.jpg/960px-Hiraoka-jinja%2C_honden-003.jpg",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%9E%9A%E5%B2%A1%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "055",
@@ -5099,7 +5423,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "駅から10分の住宅街を歩くルート。日中は安全で分かりやすい道。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%C5%8Ctori-taisha%2C_Worship_Hall_001.jpg/960px-%C5%8Ctori-taisha%2C_Worship_Hall_001.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%B3%A5%E5%A4%A7%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "056",
@@ -5193,7 +5523,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "大阪都市部の住宅地に鎮座。駅直結で境内まで3分。日中は常に参拝者がいて安心。夜間の参拝は避けることを推奨。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sumiyoshi-taisha%2C_keidai-2.jpg/960px-Sumiyoshi-taisha%2C_keidai-2.jpg",
+    "imageWidth": 600,
+    "imageHeight": 398,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%90%89%E5%A4%A7%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "057",
@@ -5285,7 +5621,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "大阪中心のビジネス街で日中は安全。周辺はオフィスビルが立ち並び治安良好。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Zamajinja_keidai.png/960px-Zamajinja_keidai.png",
+    "imageWidth": 600,
+    "imageHeight": 338,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%9D%90%E6%91%A9%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "058",
@@ -5378,7 +5720,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "和歌山電鐵の日前宮駅から徒歩2分。住宅街の落ち着いた環境で安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hinokuma-jingu_Kunikakasu-jingu%2C_entrance-2.jpg/960px-Hinokuma-jingu_Kunikakasu-jingu%2C_entrance-2.jpg",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%97%A5%E5%89%8D%E7%A5%9E%E5%AE%AE%E3%83%BB%E5%9C%8B%E6%87%B8%E7%A5%9E%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "059",
@@ -5472,7 +5820,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "難",
       "女性一人歩き安全性コメント": "山麓の山道のため車またはタクシー必須。レンタカーや高野山観光との組み合わせツアーが便利。バス便は本数が極めて少なく要事前確認。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Niutsuhime-jinja_roumon-3.jpg/960px-Niutsuhime-jinja_roumon-3.jpg",
+    "imageWidth": 600,
+    "imageHeight": 395,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%94%9F%E9%83%BD%E6%AF%94%E5%A3%B2%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "060",
@@ -5565,7 +5919,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "和歌山電鐵の駅隣接で非常にアクセスしやすい。路線自体が女性旅行者に人気の「たま電車」ルートで安心。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Itakisojinja_02.JPG/960px-Itakisojinja_02.JPG",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%A4%AA%E7%A5%81%E6%9B%BD%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "061",
@@ -5657,7 +6017,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "亀岡駅からバスでアクセス可能。バスの本数が少ないため時刻表の事前確認が必要。タクシーも利用可（駅から約10分・約1,500円）。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Izumo-daijing%C5%AB_haiden-2.JPG/960px-Izumo-daijing%C5%AB_haiden-2.JPG",
+    "imageWidth": 600,
+    "imageHeight": 398,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%87%BA%E9%9B%B2%E5%A4%A7%E7%A5%9E%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "062",
@@ -5753,7 +6119,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "天橋立駅から歩ける距離だが、天橋立の松並木を歩く場合は砂利道のため歩きやすい靴推奨。観光地として整備されており安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kono-jinja_%28Miyazu%29_haiden.JPG/960px-Kono-jinja_%28Miyazu%29_haiden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%B1%A0%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "063",
@@ -5846,7 +6218,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "難",
       "女性一人歩き安全性コメント": "公共交通機関のみでの訪問は難しい。レンタカーまたはタクシー必須。竹田城跡観光とのセットでレンタカーを借りるプランが最も効率的。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Awaga-jinja%2C_haiden.jpg/960px-Awaga-jinja%2C_haiden.jpg",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%B2%9F%E9%B9%BF%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "064",
@@ -5938,7 +6316,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "バスで「出石」バス停まで来れば城下町と神社は徒歩圏内。城下町自体が観光地として整備されており安全。バスの時刻表を事前確認すること。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Izushi-jinja_shinmon.JPG/960px-Izushi-jinja_shinmon.JPG",
+    "imageWidth": 600,
+    "imageHeight": 398,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%87%BA%E7%9F%B3%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "065",
@@ -6028,7 +6412,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "難",
       "女性一人歩き安全性コメント": "バスでのアクセスも可能だが本数が少なく事前確認必須。道の駅が隣接しており、日中は安全。車（レンタカー）での訪問が最も快適。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Iwa-jinja_%28Shiso%29%2C_haiden-1.jpg/960px-Iwa-jinja_%28Shiso%29%2C_haiden-1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 398,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%92%8C%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "066",
@@ -6118,7 +6508,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "高速バス+路線バスの組み合わせで訪問可能。淡路島内はバス本数が少ないため時刻表の事前確認が必須。レンタカーが最も効率的。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Izanagi-jingu%2C_haiden-1.jpg/960px-Izanagi-jingu%2C_haiden-1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%BC%89%E8%AB%BE%E7%A5%9E%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "067",
@@ -6208,7 +6604,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "国府駅から15分の徒歩ルートは住宅街で安全。バスを使う場合は本数が少ないため時刻表の確認が必要。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ube-jinja%2C_haiden-1.jpg/960px-Ube-jinja%2C_haiden-1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 397,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%80%8D%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "068",
@@ -6301,7 +6703,10 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "難",
       "女性一人歩き安全性コメント": "松崎駅から山道を35分歩くのは難しいため、タクシーまたはレンタカー推奨。東郷温泉の宿泊者向けの送迎サービスを利用する方法もある。"
-    }
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageAttribution": null
   },
   {
     "id": "069",
@@ -6408,7 +6813,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "一畑電車「出雲大社前駅」から境内まで7分。神門通りは観光地として整備され日中は安全。食べ歩きも一人で楽しめる環境。夜間の一人歩きは避けることを推奨。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haiden_of_Izumo-taisha-1.JPG/960px-Haiden_of_Izumo-taisha-1.JPG",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%87%BA%E9%9B%B2%E5%A4%A7%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "070",
@@ -6498,7 +6909,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "難",
       "女性一人歩き安全性コメント": "公共交通機関のみでのアクセスは難しい。出雲大社参拝後にレンタカーで訪問するか、松江発のタクシー観光コースを利用するのが最も効率的。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kumano_taisha.jpg/960px-Kumano_taisha.jpg",
+    "imageWidth": 600,
+    "imageHeight": 402,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E5%A4%A7%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "071",
@@ -6592,7 +7009,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "JR大田市駅からバスまたはタクシー利用が現実的。バスは本数が限られるため時刻表を事前確認。駅周辺に観光案内所あり、レンタカー利用も選択肢。境内は昼間に参拝すれば安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Precincts_of_Mononobe-jinja.JPG/960px-Precincts_of_Mononobe-jinja.JPG",
+    "imageSource": "Wikimedia Commons",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%89%A9%E9%83%A8%E7%A5%9E%E7%A4%BE%20%28%E5%A4%A7%E7%94%B0%E5%B8%82%29"
   },
   {
     "id": "072",
@@ -6680,7 +7103,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "難",
       "女性一人歩き安全性コメント": "本土から隠岐汽船またはフェリーで渡島が必須。船の欠航が冬季に多く、日程に余裕が必要。島内はバスまたはレンタカーでの移動が基本。宿泊を前提とした計画が安心。島の人は温かく、女性一人旅の受け入れも慣れているが、事前に宿と移動手段を予約してから出発すること。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mizuwakasu-jinja_shaden.JPG/960px-Mizuwakasu-jinja_shaden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E8%8B%A5%E9%85%A2%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "073",
@@ -6763,7 +7192,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "難",
       "女性一人歩き安全性コメント": "水若酢神社よりさらにアクセスが複雑。島前・島後は別のフェリーを利用する必要がある。冬の欠航リスクを考慮し、宿泊込みの旅程で計画すること。島の人は観光客に慣れており、女性一人旅も歓迎されているが、事前予約が必須。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Yurahime_jinja_Haiden.JPEG/960px-Yurahime_jinja_Haiden.JPEG",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%94%B1%E8%89%AF%E6%AF%94%E5%A5%B3%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "074",
@@ -6858,7 +7293,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "津山駅からバスまたはタクシーでアクセス可。バスは本数が少ないため時刻表の事前確認が必須。境内は安全で昼間の参拝であれば問題なし。津山市内のレンタカー利用も便利。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Nakayama_Jinja_09.JPG/960px-Nakayama_Jinja_09.JPG",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B1%B1%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "075",
@@ -6946,7 +7387,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "JR備前一宮駅から徒歩3分という岡山エリアの一の宮の中で最もアクセスしやすい神社。昼間の参拝は安全で、岡山駅から日帰り圏内。吉備津神社と吉備津彦神社のセット参拝は電車＋徒歩で完結できる。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kibitsuhiko-jinja_tourou_and_haiden.JPG/960px-Kibitsuhiko-jinja_tourou_and_haiden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%82%99%E6%B4%A5%E5%BD%A6%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "076",
@@ -7030,7 +7477,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "山頂参拝のため運動靴・スニーカー必須。石段は急なので雨天時は特に注意。公共交通のみでのアクセスは困難なため、レンタカーまたはタクシー利用を推奨。昼間の参拝は安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Isonokamifutsumitama_jinja_01.jpg/960px-Isonokamifutsumitama_jinja_01.jpg",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%B8%8A%E5%B8%83%E9%83%BD%E9%AD%82%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "077",
@@ -7125,7 +7578,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "JR吉備津駅から徒歩10分。吉備津彦神社（備前一宮駅）との間は吉備路自転車道で自転車約20分でつながっており、レンタサイクルでの一人旅が女性に人気。参道・境内は安全で昼間の参拝は問題なし。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kibitsu_Jinja_10_cropped.jpg/960px-Kibitsu_Jinja_10_cropped.jpg",
+    "imageWidth": 600,
+    "imageHeight": 408,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%82%99%E6%B4%A5%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "078",
@@ -7211,7 +7670,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "JR新市駅から徒歩15分。素盞嗚神社も近接しており、両社を徒歩で巡れる。福山駅からの電車アクセスも容易で、女性の一人旅に適した環境。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kibitsu_Jinja_10_cropped.jpg/960px-Kibitsu_Jinja_10_cropped.jpg",
+    "imageWidth": 600,
+    "imageHeight": 408,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%82%99%E6%B4%A5%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "079",
@@ -7299,7 +7764,10 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "JR新市駅から徒歩圏内。備後吉備津神社とのセット参拝も徒歩で可能。一人旅に適した落ち着いた雰囲気の神社。"
-    }
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageAttribution": null
   },
   {
     "id": "080",
@@ -7399,7 +7867,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "広島駅から電車とフェリーで約1時間の好アクセス。島内は観光地として整備されており、昼間は非常に多くの観光客がいるため安全。参道沿いに飲食店・土産店が充実。女性一人旅の定番コースとして女性向け旅行情報誌に多数紹介されている。夜間は人が減るため、夜遅い行動は注意。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg/960px-Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "081",
@@ -7485,7 +7959,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "防府駅からバスまたはタクシーでアクセス。バスの本数が少ないため時刻表の事前確認が必須。境内は静かで安全。防府市内は観光地として整備されており、一人旅に適した環境。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tamanooya-jinja_%28Hofu%29%2C_haiden.jpg/960px-Tamanooya-jinja_%28Hofu%29%2C_haiden.jpg",
+    "imageWidth": 600,
+    "imageHeight": 395,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%8E%89%E7%A5%96%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "082",
@@ -7573,7 +8053,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "新下関駅からバスでアクセス可。下関市街は観光地として整備されており、女性の一人旅に適した環境。唐戸市場・関門トンネル人道口などの観光スポットも近く、1日で充実した旅程が組める。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sumiyoshi-jinja_%28Shimonoseki%29_Haiden.JPG/960px-Sumiyoshi-jinja_%28Shimonoseki%29_Haiden.JPG",
+    "imageSource": "Wikimedia Commons",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%90%89%E7%A5%9E%E7%A4%BE%20%28%E4%B8%8B%E9%96%A2%E5%B8%82%29"
   },
   {
     "id": "083",
@@ -7675,7 +8161,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "琴電「一宮駅」から徒歩8分、周辺は静かな住宅街で昼間は安全。高松駅から琴電で約20分、乗り換えなし。讃岐うどん店は高松市内に多数あり、参拝後の食事も困らない。公共交通のみで完結できる香川の一宮。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tamura_shrine20220820_1.jpg/960px-Tamura_shrine20220820_1.jpg",
+    "imageSource": "Wikimedia Commons",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)",
+    "imageWidth": 600,
+    "imageHeight": 437,
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%94%B0%E6%9D%91%E7%A5%9E%E7%A4%BE%20%28%E9%AB%98%E6%9D%BE%E5%B8%82%29"
   },
   {
     "id": "084",
@@ -7776,7 +8268,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "JR板東駅から徒歩15分。駅周辺は静かな農村地帯で治安良好。ただしJR鳴門線は本数が少なく（1時間1〜2本程度）、時刻表の事前確認が必須。高松・徳島方面から高速バスと鳴門市内交通の組み合わせが現実的。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oasahiko-jinja%2C_haiden-1.jpg/960px-Oasahiko-jinja%2C_haiden-1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 398,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%BA%BB%E6%AF%94%E5%8F%A4%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "085",
@@ -7870,7 +8368,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "とさでん路面電車「一宮」停留所から徒歩5〜10分。路面電車は本数多く使いやすい。高知市中心部との往来も便利で、一人旅の観光拠点・高知市を起点に日帰り参拝が可能。昼間は参拝者も多く安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tosa-jinja_Haiden.jpg/960px-Tosa-jinja_Haiden.jpg",
+    "imageWidth": 600,
+    "imageHeight": 402,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E4%BD%90%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "086",
@@ -7965,7 +8469,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "今治駅からしまなみライナーバス（本数少なめ・要時刻確認）で宮浦港まで約70分。島内は落ち着いた雰囲気で安全。レンタサイクルが便利（宮浦港周辺で貸出あり）。船・バスの時刻を事前確認することと、帰りの最終便に余裕を持つことが重要。車または自転車旅行者に優しい島。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ohyamazumi_Shrine_Haiden.JPG/960px-Ohyamazumi_Shrine_Haiden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E7%A5%87%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "087",
@@ -8061,7 +8571,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "博多駅から徒歩10分・祇園駅から徒歩5分という都心立地で、昼間は人通りも多く安全。博多の繁華街エリアと隣接しているため女性一人での行動に不安なし。福岡市内観光の最初や最後に組み込みやすい。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sumiyoshi-jinja_%28Fukuoka%29_haiden-1.JPG/960px-Sumiyoshi-jinja_%28Fukuoka%29_haiden-1.JPG",
+    "imageSource": "Wikimedia Commons",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%90%89%E7%A5%9E%E7%A4%BE%20%28%E7%A6%8F%E5%B2%A1%E5%B8%82%29"
   },
   {
     "id": "088",
@@ -8157,7 +8673,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "地下鉄「箱崎宮前駅」から徒歩2分という圧倒的な好立地。駅前は住宅・商業地区で昼間は人通りあり安全。博多・天神からも地下鉄一本で約15分、一人旅の立ち寄り先として最適。花庭園の開苑期は女性グループも多く賑わう。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hakozaki-miya090806a.jpg/960px-Hakozaki-miya090806a.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E7%AD%A5%E5%B4%8E%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "089",
@@ -8254,7 +8776,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "御井駅から徒歩30分（急坂・石段あり）は体力が必要。西鉄バス「高良大社前」停留所からの方が現実的（本数少なめ）。タクシーが最も確実（西鉄久留米駅から2,000円程度）。境内・参道は整備されていて安全だが、帰りのバス・タクシーを事前に確保することを推奨。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Koura-taisha%2C_nakamon.jpg/960px-Koura-taisha%2C_nakamon.jpg",
+    "imageWidth": 600,
+    "imageHeight": 398,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%AB%98%E8%89%AF%E5%A4%A7%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "090",
@@ -8349,7 +8877,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "宇佐駅からは徒歩では遠く（約3km）、タクシー（1,000〜1,200円）かコミュニティバスを利用。境内は広大だが整備されており、昼間は参拝者も多く安全。大分駅からレンタカーを借りると柞原八幡宮・西寒多神社との3社めぐりができ、大分一宮旅として効率がいい。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Usa_Shrine_Nanchu_Romon.JPG/960px-Usa_Shrine_Nanchu_Romon.JPG",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%AE%87%E4%BD%90%E7%A5%9E%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "091",
@@ -8441,7 +8975,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "西大分駅からバス約10分・終点下車後徒歩5分というアクセスは公共交通で完結できるが、バスの本数が少ないため（1時間1本程度）、時刻表の事前確認が必須。帰りのバスを逃さないよう注意。境内は落ち着いた雰囲気で安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/YusuharaHachimangu_Shaden.JPG/960px-YusuharaHachimangu_Shaden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%9F%9E%E5%8E%9F%E5%85%AB%E5%B9%A1%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "092",
@@ -8537,7 +9077,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "敷戸駅から徒歩30分は距離あり。大分バス「ふじが丘南」停留所下車後徒歩8分が現実的だが、バスの本数確認が必須。大分市街からレンタカーを借りて柞原八幡宮とセット参拝するのが一人旅では最も効率的。境内・参道は整備されており安全。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sasamuta-jinja_haiden-2.JPG/960px-Sasamuta-jinja_haiden-2.JPG",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%AF%92%E5%A4%9A%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "093",
@@ -8631,7 +9177,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "JR肥前旭駅から徒歩20分はやや遠め。タクシー利用が現実的（5分・数百円）。JR鳥栖・佐賀駅からレンタカーを利用すると周辺観光も含めてスムーズ。駐車場無料あり。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Haiden_of_Chiriku_Hachiman_Shrine_2.jpg/960px-Haiden_of_Chiriku_Hachiman_Shrine_2.jpg",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%A0%97%E5%85%AB%E5%B9%A1%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "094",
@@ -8726,7 +9278,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "佐賀駅からバス30分+徒歩5分で到達可能。バスの本数は1時間に1〜2本程度のため、事前に時刻表確認が必須。タクシーを使うと佐賀駅から片道約20分・2,000〜2,500円程度。車があればストレスなし。境内周辺は静かな田園地帯で治安は良好。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Yodohime-jinja_Haiden.jpg/960px-Yodohime-jinja_Haiden.jpg",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E8%88%87%E6%AD%A2%E6%97%A5%E5%A5%B3%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "095",
@@ -8821,7 +9379,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "JR宮地駅から徒歩10分で到達可能。門前町には食事処・土産店が集まり昼間は安心。ただし熊本〜宮地間のJR豊肥本線は1〜2時間に1本程度。くまモンバスや阿蘇市内バスも活用できるが、時間の読める車・バスツアー利用が快適。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aso_Jinja_03.jpg/960px-Aso_Jinja_03.jpg",
+    "imageWidth": 600,
+    "imageHeight": 391,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%98%BF%E8%98%87%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "096",
@@ -8913,7 +9477,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "JR都農駅から徒歩10〜15分。駅周辺は静かな地方都市で昼間は安全。ただしJR日豊本線は特急停車駅ではないため宮崎〜都農間の移動時間に余裕を持つこと（約50分）。東九州自動車道開通後は宮崎から40分のアクセスになり、レンタカー旅が最もスムーズ。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tsuno-jinja_keidai.JPG/960px-Tsuno-jinja_keidai.JPG",
+    "imageWidth": 600,
+    "imageHeight": 399,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%83%BD%E8%BE%B2%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "097",
@@ -9010,7 +9580,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "JR隼人駅から徒歩15〜20分。隼人駅前は静かな地方都市だが昼間は安全。鹿児島空港からバス〜タクシーでアクセス可能。霧島温泉郷まで足を伸ばす場合はレンタカーが圧倒的に便利（温泉旅館送迎も利用可）。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kagoshima-jingu%2C_chokushiden-1.jpg/960px-Kagoshima-jingu%2C_chokushiden-1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 397,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%A5%9E%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "098",
@@ -9107,7 +9683,13 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "JR開聞駅から徒歩10〜15分。ただしJR指宿枕崎線は1〜2時間に1本程度。指宿駅から鹿児島市内へは特急「指宿のたまて箱」（1日3往復）が便利。一人旅なら指宿駅起点でレンタサイクル（1日500〜1,000円程度）を使うと開聞岳周辺をくまなく回れる。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hirakiki_shrine.jpg/960px-Hirakiki_shrine.jpg",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%9E%9A%E8%81%9E%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "099",
@@ -9201,7 +9783,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "中",
       "女性一人歩き安全性コメント": "川内駅から車7分・バス15分。バスは本数が少ないためタクシー（800〜1,000円程度）が現実的。新幹線停車駅の川内駅を起点にできるため、鹿児島市内や博多からのアクセスは九州の神社の中では比較的良好。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Nitta-shrine_%28satsuma-sendai%29_pavilions_1.jpg",
+    "imageSource": "Wikimedia Commons",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)",
+    "imageWidth": 800,
+    "imageHeight": 600,
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%96%B0%E7%94%B0%E7%A5%9E%E7%A4%BE%20%28%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82%29"
   },
   {
     "id": "100",
@@ -9288,7 +9876,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "難",
       "女性一人歩き安全性コメント": "博多港からジェットフォイル65〜70分（5,850円）で郷ノ浦港へ。港からはバスか島内レンタカーが必須。ジェットフォイルは天候により欠航することがあるため、宿泊込みの日程を組むのが安全。島内は治安良好・観光客に親切な地域で女性一人旅の報告も多いが、欠航リスクを考慮して余裕のある日程を組むこと。日帰りは可能だが宿泊推奨。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Amanotanagao_shrine_torii_-_2010.jpg/960px-Amanotanagao_shrine_torii_-_2010.jpg",
+    "imageWidth": 600,
+    "imageHeight": 450,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%89%8B%E9%95%B7%E7%94%B7%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "101",
@@ -9376,7 +9970,13 @@
       "駅から徒歩可": false,
       "最終アクセス難易度": "難",
       "女性一人歩き安全性コメント": "対馬へは博多から飛行機（ANA・JAL）45分または九州郵船フェリーで到達。島内の移動は島内レンタカー（厳原港前に複数あり）が必須。海神神社は無人・原生林の中にあり、単独行動時は道迷いに注意。なるべく事前にルートを確認し、携帯電波が入りにくいエリアがあることを認識しておくこと。島の人々は親切で治安は良好だが、一人旅の場合は厳原に1泊し余裕ある日程を組むことを強く推奨。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kaijin_jinja_haiden_and_honden.JPG/960px-Kaijin_jinja_haiden_and_honden.JPG",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E7%A5%9E%E7%A5%9E%E7%A4%BE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   },
   {
     "id": "102",
@@ -9476,6 +10076,12 @@
       "駅から徒歩可": true,
       "最終アクセス難易度": "易",
       "女性一人歩き安全性コメント": "ゆいレール旭橋駅から徒歩15分。旭橋〜若狭エリアは那覇市の中心部に近く昼間は人通りが多く安全。那覇空港・国際通りからもアクセスしやすく、沖縄旅行のついでに参拝できる最も気軽な一宮。授与所も丁寧に対応しており一人女性参拝者への配慮が感じられる。"
-    }
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_distant_view_of_Naminoueg%C5%AB_Honden.jpg/960px-The_distant_view_of_Naminoueg%C5%AB_Honden.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400,
+    "imageSource": "Wikimedia Commons",
+    "imageSourcePage": "https://ja.wikipedia.org/wiki/%E6%B3%A2%E4%B8%8A%E5%AE%AE",
+    "imageAttribution": "画像：Wikimedia Commons (CC BY-SA)"
   }
 ]

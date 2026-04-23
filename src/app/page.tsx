@@ -93,29 +93,48 @@ export default function Home() {
           <h3 className="font-serif font-bold text-torii-700 text-lg mb-3">
             ✨ 今日おすすめの一の宮
           </h3>
-          <div className="torii-card p-4 bg-gradient-to-br from-gold-100/60 to-torii-50">
-            <p className="text-[10px] text-gold-700 font-bold tracking-wider">
-              TODAY&apos;S PICK
-            </p>
-            <button
-              type="button"
-              onClick={() => setSelected(today)}
-              className="mt-1 text-left w-full"
-            >
-              <p className="font-serif font-black text-xl text-torii-700">
-                {today.name}
-              </p>
-              <p className="text-xs text-ink-500 mt-0.5">
-                {today.読み} ・ {today.都道府県}
-              </p>
-              <p className="text-sm text-ink-900 mt-2 leading-relaxed">
+          <button
+            type="button"
+            onClick={() => setSelected(today)}
+            className="torii-card overflow-hidden text-left w-full"
+          >
+            {/* ヒーロー画像 */}
+            <div className="relative w-full h-40 md:h-48 bg-gradient-to-br from-torii-500 to-torii-700 flex items-center justify-center">
+              {today.imageUrl ? (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={today.imageUrl}
+                  alt={today.name}
+                  className="w-full h-full object-cover"
+                />
+              ) : (
+                <span className="text-6xl text-white/80" aria-hidden>
+                  ⛩
+                </span>
+              )}
+              <div className="absolute inset-0 bg-gradient-to-t from-ink-900/70 via-ink-900/10 to-transparent" />
+              <div className="absolute top-3 left-3 bg-gold-500 text-ink-900 text-[10px] font-bold px-2 py-0.5 rounded-full tracking-wider">
+                TODAY&apos;S PICK
+              </div>
+              <div className="absolute bottom-3 left-4 right-4">
+                <p className="font-serif font-black text-xl md:text-2xl text-white drop-shadow">
+                  {today.name}
+                </p>
+                <p className="text-[11px] text-white/90 mt-0.5">
+                  {today.読み} ・ {today.都道府県}
+                </p>
+              </div>
+            </div>
+            {/* 本文 */}
+            <div className="p-4">
+              <p className="text-sm text-ink-900 leading-relaxed">
                 {today.開運キーワード}
               </p>
               <p className="text-xs text-torii-500 font-bold mt-2">
                 詳しく見る →
               </p>
-            </button>
-          </div>
+            </div>
+          </button>
         </section>
 
         {/* 最近の参拝（あれば） */}
