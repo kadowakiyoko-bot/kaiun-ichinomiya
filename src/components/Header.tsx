@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useStamps } from "@/hooks/useStamps";
+import UmeIcon from "@/components/UmeIcon";
 
 const TABS = [
   { href: "/", label: "ホーム" },
@@ -16,18 +17,26 @@ export default function Header() {
   const { totalCount, isHydrated } = useStamps();
 
   return (
-    <header className="sticky top-0 z-30 bg-washi/90 backdrop-blur-md border-b border-torii-100">
+    <header className="sticky top-0 z-30 bg-washi/95 backdrop-blur-md border-b border-torii-100">
+      {/* 上部：朱色細線 */}
+      <div
+        aria-hidden="true"
+        style={{
+          height: "2px",
+          background: "#CE3A2D",
+          opacity: 0.7,
+        }}
+      />
+
       <div className="max-w-[1400px] mx-auto px-4 py-3 flex items-center justify-between gap-4">
         <Link href="/" className="flex items-center gap-2 min-w-0">
-          <span className="text-2xl leading-none" aria-hidden>
-            ⛩️
-          </span>
+          <UmeIcon size={20} color="#CE3A2D" />
           <div className="min-w-0">
-            <h1 className="font-serif font-bold text-lg md:text-xl text-torii-700 leading-none truncate">
-              開運一の宮めぐり
+            <h1 className="font-serif font-bold text-lg md:text-xl text-torii-700 leading-none truncate" style={{ letterSpacing: "0.18em" }}>
+              富旅一の宮
             </h1>
-            <p className="text-[10px] text-ink-500 hidden md:block mt-0.5">
-              全国102社・女性一人旅にも優しい
+            <p className="text-[10px] text-ink-500 hidden md:block mt-1" style={{ letterSpacing: "0.18em", textTransform: "uppercase" }}>
+              TOMITABI ICHINOMIYA
             </p>
           </div>
         </Link>
@@ -61,6 +70,16 @@ export default function Header() {
           </div>
         </nav>
       </div>
+
+      {/* 下部：金細線 */}
+      <div
+        aria-hidden="true"
+        style={{
+          height: "1px",
+          background: "linear-gradient(to right, transparent 0%, #A07A10 30%, #C4941A 50%, #A07A10 70%, transparent 100%)",
+          opacity: 0.4,
+        }}
+      />
     </header>
   );
 }

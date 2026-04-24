@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import TomitabiFooter from "@/components/TomitabiFooter";
 
 export const metadata: Metadata = {
-  title: "開運一の宮めぐり | 全国102社スタンプラリー",
+  title: "富旅一の宮 | 全国102社めぐり・スタンプラリー",
   description:
-    "全国一の宮102社を地図から探して、スタンプラリーで訪問記録。御祭神・ご利益・開運フード・必買お守り・秘密の話まで。女性の一人旅にも優しい神社めぐりサイト。",
+    "富旅シリーズ。全国一の宮102社を地図から探して、スタンプラリーで訪問記録。御祭神・ご利益・開運フード・必買お守り・秘密の話まで。女性の一人旅にも優しい神社めぐりサイト。",
 };
 
 export default function RootLayout({
@@ -33,7 +34,8 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-full flex flex-col washi-bg text-ink-900 font-sans">
-        {children}
+        <div className="flex-1">{children}</div>
+        <TomitabiFooter />
       </body>
     </html>
   );
