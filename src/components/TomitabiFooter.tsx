@@ -13,8 +13,8 @@ const SISTER_APPS = [
     url: "https://tomitabi-koyomi.vercel.app",
   },
   {
-    name: "富旅温泉",
-    en: "TOMITABI ONSEN",
+    name: "開運温泉巡りマップ",
+    en: "KAIUN ONSEN",
     desc: "九星気学×泉質で開運の湯",
     url: "https://kaiun-meguri-map.vercel.app",
   },
