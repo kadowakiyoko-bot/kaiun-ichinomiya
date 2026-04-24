@@ -3,7 +3,7 @@ import "./globals.css";
 import TomitabiFooter from "@/components/TomitabiFooter";
 
 export const metadata: Metadata = {
-  title: "富旅一の宮 | 全国102社めぐり・スタンプラリー",
+  title: "富旅一の宮巡り | 全国102社・スタンプラリー",
   description:
     "富旅シリーズ。全国一の宮102社を地図から探して、スタンプラリーで訪問記録。御祭神・ご利益・開運フード・必買お守り・秘密の話まで。女性の一人旅にも優しい神社めぐりサイト。",
 };

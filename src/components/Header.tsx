@@ -32,11 +32,11 @@ export default function Header() {
         <Link href="/" className="flex items-center gap-2 min-w-0">
           <UmeIcon size={20} color="#CE3A2D" />
           <div className="min-w-0">
-            <h1 className="font-serif font-bold text-lg md:text-xl text-torii-700 leading-none truncate" style={{ letterSpacing: "0.18em" }}>
-              富旅一の宮
+            <h1 className="font-serif font-bold text-lg md:text-xl text-torii-700 leading-none truncate" style={{ letterSpacing: "0.15em" }}>
+              富旅一の宮巡り
             </h1>
             <p className="text-[10px] text-ink-500 hidden md:block mt-1" style={{ letterSpacing: "0.18em", textTransform: "uppercase" }}>
-              TOMITABI ICHINOMIYA
+              TOMITABI ICHINOMIYA MEGURI
             </p>
           </div>
         </Link>
