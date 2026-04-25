@@ -8,7 +8,7 @@ import ShrineDetail from "@/components/ShrineDetail";
 import ProgressGauge from "@/components/ProgressGauge";
 import { shrines, shrineById } from "@/data/shrines";
 import { useStamps } from "@/hooks/useStamps";
-import { DO_ORDER, PROVINCE_TO_DO } from "@/data/constants";
+import { REGION_ORDER, PREFECTURE_TO_REGION } from "@/data/constants";
 import type { Shrine } from "@/types";
 
 export default function MyPage() {
@@ -25,14 +25,14 @@ export default function MyPage() {
       .sort((a, b) => (a.stamp.visitedAt < b.stamp.visitedAt ? 1 : -1));
   }, [stamps]);
 
-  // 五畿七道ごとの達成率
-  const doStats = useMemo(() => {
+  // 地方ごとの達成率
+  const regionStats = useMemo(() => {
     const stats: Record<string, { total: number; visited: number }> = {};
     for (const s of shrines) {
-      const d = PROVINCE_TO_DO[s.旧国] || "その他";
-      if (!stats[d]) stats[d] = { total: 0, visited: 0 };
-      stats[d].total++;
-      if (isVisited(s.id)) stats[d].visited++;
+      const r = PREFECTURE_TO_REGION[s.都道府県] || "その他";
+      if (!stats[r]) stats[r] = { total: 0, visited: 0 };
+      stats[r].total++;
+      if (isVisited(s.id)) stats[r].visited++;
     }
     return stats;
   }, [isVisited]);
@@ -59,14 +59,14 @@ export default function MyPage() {
             📍 地方別の達成状況
           </h3>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
-            {[...DO_ORDER, ...(doStats["その他"] ? ["その他"] : [])].map((d) => {
-              const s = doStats[d];
+            {[...REGION_ORDER, ...(regionStats["その他"] ? ["その他"] : [])].map((r) => {
+              const s = regionStats[r];
               if (!s) return null;
               const pct = Math.round((s.visited / s.total) * 100);
               return (
-                <div key={d} className="torii-card p-3">
+                <div key={r} className="torii-card p-3">
                   <p className="font-serif font-bold text-torii-700 text-sm">
-                    {d}
+                    {r}
                   </p>
                   <p className="text-xs text-ink-500 mt-0.5">
                     {s.visited} / {s.total} 社
