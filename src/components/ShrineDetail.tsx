@@ -35,30 +35,46 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
         className="bg-washi rounded-t-3xl md:rounded-3xl w-full max-w-2xl max-h-[92vh] overflow-hidden shadow-2xl flex flex-col"
         onClick={(e) => e.stopPropagation()}
       >
-        {/* ヒーロー画像 */}
-        <div className="relative w-full h-44 md:h-56 shrink-0 bg-gradient-to-br from-torii-500 to-torii-700 flex items-center justify-center overflow-hidden">
-          {shrine.imageUrl ? (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img
-              src={shrine.imageUrl}
-              alt={shrine.name}
-              className="w-full h-full object-cover"
-              onError={(e) => {
-                (e.currentTarget as HTMLImageElement).style.display = "none";
-              }}
-            />
-          ) : (
-            <span className="text-7xl text-white/70" aria-hidden>
-              ⛩
-            </span>
-          )}
-          {/* 朱グラデのオーバーレイで文字が映える下地 */}
-          <div className="absolute inset-0 bg-gradient-to-t from-ink-900/50 to-transparent pointer-events-none" />
+        {/* コンパクトヘッダー（画像＋タイトルを横並び） */}
+        <div className="relative shrink-0 bg-gradient-to-br from-torii-50 to-gold-100 border-b border-torii-100">
+          <div className="flex gap-3 p-4 md:p-5">
+            {/* サムネイル画像（アイコン的な丸サムネ） */}
+            <div className="relative w-20 h-20 md:w-24 md:h-24 shrink-0 rounded-2xl overflow-hidden bg-gradient-to-br from-torii-500 to-torii-700 flex items-center justify-center shadow-md ring-2 ring-white">
+              {shrine.imageUrl ? (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={shrine.imageUrl}
+                  alt={shrine.name}
+                  className="w-full h-full object-cover"
+                  onError={(e) => {
+                    (e.currentTarget as HTMLImageElement).style.display = "none";
+                  }}
+                />
+              ) : (
+                <span className="text-4xl text-white/80" aria-hidden>
+                  ⛩
+                </span>
+              )}
+            </div>
+
+            {/* タイトル群 */}
+            <div className="flex-1 min-w-0 pr-8">
+              <p className="text-[11px] text-gold-700 font-bold tracking-wider">
+                {shrine.旧国} 一宮 ・ {shrine.都道府県}
+              </p>
+              <h2 className="font-serif font-black text-xl md:text-2xl text-torii-700 mt-0.5 leading-tight">
+                {shrine.name}
+              </h2>
+              <p className="text-[11px] text-ink-500 mt-0.5">{shrine.読み}</p>
+            </div>
+          </div>
+
+          {/* 閉じるボタン */}
           <button
             type="button"
             onClick={onClose}
             aria-label="閉じる"
-            className="absolute top-3 right-3 w-9 h-9 rounded-full bg-white/90 hover:bg-white flex items-center justify-center text-ink-700 shadow-md z-10"
+            className="absolute top-3 right-3 w-9 h-9 rounded-full bg-white/95 hover:bg-white flex items-center justify-center text-ink-700 shadow-md z-10"
           >
             ✕
           </button>
@@ -67,59 +83,51 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
               href={shrine.imageSourcePage}
               target="_blank"
               rel="noopener noreferrer"
-              className="absolute bottom-2 right-3 text-[9px] text-white/85 hover:text-white bg-ink-900/40 px-2 py-0.5 rounded-full backdrop-blur-sm"
+              className="absolute bottom-1 left-4 text-[9px] text-ink-400 hover:text-ink-700"
               onClick={(e) => e.stopPropagation()}
             >
               {shrine.imageAttribution}
             </a>
           )}
-        </div>
 
-        {/* ヘッダー */}
-        <div className="relative p-5 md:p-6 bg-gradient-to-br from-torii-50 to-gold-100 border-b border-torii-100">
-          <p className="text-[11px] text-gold-700 font-bold tracking-wider">
-            {shrine.旧国} 一宮 ・ {shrine.都道府県}
-          </p>
-          <h2 className="font-serif font-black text-2xl md:text-3xl text-torii-700 mt-1 leading-tight">
-            {shrine.name}
-          </h2>
-          <p className="text-xs text-ink-500 mt-1">{shrine.読み}</p>
+          {/* ご利益バッジ＋開運キーワード */}
+          <div className="px-4 md:px-5 pb-4 md:pb-5">
+            <div className="flex flex-wrap gap-1.5">
+              {shrine.ご利益.map((g) => (
+                <span
+                  key={g}
+                  className="goriyaku-badge"
+                  style={{ background: goriyakuColor(g) }}
+                >
+                  {g}
+                </span>
+              ))}
+            </div>
 
-          <div className="mt-3 flex flex-wrap gap-1.5">
-            {shrine.ご利益.map((g) => (
-              <span
-                key={g}
-                className="goriyaku-badge"
-                style={{ background: goriyakuColor(g) }}
-              >
-                {g}
-              </span>
-            ))}
-          </div>
-
-          <div className="mt-3 p-3 rounded-xl bg-white/70 border border-gold-300">
-            <p className="text-[10px] text-gold-700 font-bold">開運キーワード</p>
-            <p className="font-serif font-bold text-torii-700 text-base mt-0.5">
-              {shrine.開運キーワード}
-            </p>
+            <div className="mt-2.5 px-3 py-2 rounded-xl bg-white/70 border border-gold-300">
+              <p className="text-[10px] text-gold-700 font-bold leading-none">開運キーワード</p>
+              <p className="font-serif font-bold text-torii-700 text-[13px] md:text-sm mt-1 leading-snug">
+                {shrine.開運キーワード}
+              </p>
+            </div>
           </div>
         </div>
 
         {/* タブ（5列均等・中央揃え） */}
-        <div className="border-b border-torii-100 bg-white/40">
+        <div className="border-b border-torii-100 bg-white/40 shrink-0">
           <div className="grid grid-cols-5">
             {TABS.map((t) => (
               <button
                 key={t.key}
                 type="button"
                 onClick={() => setTab(t.key)}
-                className={`flex flex-col items-center justify-center gap-0.5 py-2.5 md:py-3 text-[10px] md:text-xs font-medium border-b-2 transition-colors ${
+                className={`flex flex-col items-center justify-center gap-1 py-3 md:py-3.5 text-[11px] md:text-sm font-medium border-b-2 transition-colors ${
                   tab === t.key
                     ? "border-torii-500 text-torii-700 font-bold bg-torii-50/60"
                     : "border-transparent text-ink-500 hover:text-torii-700 hover:bg-torii-50/30"
                 }`}
               >
-                <span className="text-base md:text-lg leading-none" aria-hidden>
+                <span className="text-lg md:text-xl leading-none" aria-hidden>
                   {t.icon}
                 </span>
                 <span className="leading-tight">{t.label}</span>
@@ -138,8 +146,8 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
                 </p>
                 {shrine.配祀神 && shrine.配祀神.length > 0 && (
                   <div className="mt-2">
-                    <p className="text-[11px] text-ink-500 font-bold">配祀神</p>
-                    <ul className="text-xs text-ink-700 mt-1 space-y-0.5">
+                    <p className="text-xs text-ink-500 font-bold">配祀神</p>
+                    <ul className="text-sm text-ink-700 mt-1 space-y-0.5">
                       {shrine.配祀神.map((k, i) => (
                         <li key={i}>・{k}</li>
                       ))}
@@ -149,7 +157,7 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
               </Section>
 
               <Section title="創建">
-                <p className="text-xs text-ink-700 leading-relaxed">
+                <p className="text-sm text-ink-700 leading-relaxed">
                   {shrine.創建}
                 </p>
               </Section>
@@ -165,7 +173,7 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
                   href={shrine.公式URL}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1 text-xs text-torii-500 hover:text-torii-700 underline"
+                  className="inline-flex items-center gap-1 text-sm text-torii-500 hover:text-torii-700 underline"
                 >
                   公式サイトへ →
                 </a>
@@ -180,16 +188,16 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
                   {shrine.開運フード.name}
                 </p>
                 {foodStore && (
-                  <p className="text-xs text-ink-500 mt-1">📍 {foodStore}</p>
+                  <p className="text-sm text-ink-500 mt-1">📍 {foodStore}</p>
                 )}
                 <div className="mt-3 p-3 bg-gold-100/50 rounded-xl">
-                  <p className="text-[10px] text-gold-700 font-bold">効能</p>
-                  <p className="text-sm text-ink-900 mt-1">{shrine.開運フード.効能}</p>
+                  <p className="text-xs text-gold-700 font-bold">効能</p>
+                  <p className="text-sm text-ink-900 mt-1 leading-relaxed">{shrine.開運フード.効能}</p>
                 </div>
                 {shrine.開運フード.エピソード && (
                   <div className="mt-3">
-                    <p className="text-[10px] text-ink-500 font-bold">エピソード</p>
-                    <p className="text-xs text-ink-700 leading-relaxed mt-1">
+                    <p className="text-xs text-ink-500 font-bold">エピソード</p>
+                    <p className="text-sm text-ink-700 leading-relaxed mt-1">
                       {shrine.開運フード.エピソード}
                     </p>
                   </div>
@@ -209,14 +217,14 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
                     <p className="font-serif font-bold text-base text-torii-700">
                       {o.name}
                     </p>
-                    <p className="text-xs font-bold text-gold-700 shrink-0">
+                    <p className="text-sm font-bold text-gold-700 shrink-0">
                       {o.初穂料}
                     </p>
                   </div>
-                  <p className="text-xs text-ink-700 leading-relaxed mt-2">
+                  <p className="text-sm text-ink-700 leading-relaxed mt-2">
                     {o.特徴}
                   </p>
-                  <p className="text-[11px] text-ink-500 mt-2 italic">
+                  <p className="text-xs text-ink-500 mt-2 italic">
                     👉 {o.どんな人向け}
                   </p>
                 </div>
@@ -240,7 +248,7 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
                     >
                       <span className="text-gold-500 shrink-0">✨</span>
                       <div className="flex-1">
-                        <p className="font-serif font-bold text-sm text-torii-700">
+                        <p className="font-serif font-bold text-sm md:text-base text-torii-700 leading-snug">
                           {s.title}
                         </p>
                       </div>
@@ -255,10 +263,10 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
                     </button>
                     {isOpen && (
                       <div className="px-4 pb-4 pt-1">
-                        <p className="text-xs text-ink-700 leading-relaxed">
+                        <p className="text-sm text-ink-700 leading-relaxed">
                           {s.内容}
                         </p>
-                        <p className="text-[10px] text-ink-500 mt-2">
+                        <p className="text-xs text-ink-500 mt-2">
                           出典: {s.ソース}
                         </p>
                       </div>
@@ -276,22 +284,22 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
               </Section>
 
               <Section title="住所・最寄り駅">
-                <p className="text-xs text-ink-700">{shrine.住所}</p>
-                <p className="text-xs text-ink-500 mt-1">
+                <p className="text-sm text-ink-700 leading-relaxed">{shrine.住所}</p>
+                <p className="text-sm text-ink-500 mt-1">
                   🚃 {shrine.参拝情報.最寄り駅}
                 </p>
                 {shrine.参拝情報.駐車場 && (
-                  <p className="text-xs text-ink-500 mt-1">
+                  <p className="text-sm text-ink-500 mt-1">
                     🅿 {shrine.参拝情報.駐車場}
                   </p>
                 )}
               </Section>
 
               <Section title="授与所・御朱印">
-                <p className="text-xs text-ink-700">
+                <p className="text-sm text-ink-700">
                   受付: {shrine.参拝情報.授与所受付時間}
                 </p>
-                <p className="text-xs text-ink-700 mt-1">
+                <p className="text-sm text-ink-700 mt-1">
                   御朱印: {shrine.参拝情報.御朱印初穂料}
                 </p>
               </Section>
@@ -301,10 +309,10 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
                   {(["春", "夏", "秋", "冬"] as const).map((s) => (
                     <div
                       key={s}
-                      className="p-2 rounded-lg bg-washi border border-torii-100"
+                      className="p-2.5 rounded-lg bg-washi border border-torii-100"
                     >
-                      <p className="text-[10px] font-bold text-torii-700">{s}</p>
-                      <p className="text-[11px] text-ink-700 mt-0.5">
+                      <p className="text-xs font-bold text-torii-700">{s}</p>
+                      <p className="text-sm text-ink-700 mt-0.5 leading-snug">
                         {shrine.ベストシーズン[s] || "—"}
                       </p>
                     </div>
@@ -314,7 +322,7 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
 
               {shrine.セット参拝コース?.length > 0 && (
                 <Section title="セット参拝コース">
-                  <ul className="text-xs text-ink-700 space-y-1">
+                  <ul className="text-sm text-ink-700 space-y-1">
                     {shrine.セット参拝コース.map((c, i) => (
                       <li key={i}>・{c}</li>
                     ))}
@@ -325,17 +333,17 @@ export default function ShrineDetail({ shrine, onClose }: ShrineDetailProps) {
               <Section title="一人旅アクセス">
                 <div className="flex gap-2 flex-wrap mb-2">
                   <span
-                    className={`text-[10px] px-2 py-0.5 rounded-full font-medium diff-${shrine.一人旅アクセス.最終アクセス難易度}`}
+                    className={`text-xs px-2 py-0.5 rounded-full font-medium diff-${shrine.一人旅アクセス.最終アクセス難易度}`}
                   >
                     難易度: {shrine.一人旅アクセス.最終アクセス難易度}
                   </span>
                   {shrine.一人旅アクセス.電車のみで完結可 && (
-                    <span className="text-[10px] px-2 py-0.5 rounded-full bg-success-light text-[#2D6A4F]">
+                    <span className="text-xs px-2 py-0.5 rounded-full bg-success-light text-[#2D6A4F]">
                       🚃 電車のみOK
                     </span>
                   )}
                 </div>
-                <p className="text-xs text-ink-700 leading-relaxed">
+                <p className="text-sm text-ink-700 leading-relaxed">
                   {shrine.一人旅アクセス.女性一人歩き安全性コメント}
                 </p>
               </Section>
@@ -363,7 +371,7 @@ function Section({
 }) {
   return (
     <div>
-      <p className="text-[11px] font-bold text-gold-700 uppercase tracking-wider mb-1.5">
+      <p className="text-xs font-bold text-gold-700 uppercase tracking-wider mb-1.5">
         {emoji && <span className="mr-1">{emoji}</span>}
         {title}
       </p>
