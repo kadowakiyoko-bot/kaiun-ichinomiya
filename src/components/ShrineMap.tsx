@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import L from "leaflet";
+import "leaflet/dist/leaflet.css";
 import type { Shrine } from "@/types";
 
 interface ShrineMapProps {
@@ -82,7 +83,8 @@ export default function ShrineMap({
       maxBoundsViscosity: 1.0,
     });
 
-    L.tileLayer(
+    // 主タイル：国土地理院。エラー多発時は OSM に自動フォールバック
+    const gsiLayer = L.tileLayer(
       "https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png",
       {
         attribution:
@@ -90,6 +92,21 @@ export default function ShrineMap({
         maxZoom: 18,
       }
     ).addTo(map);
+
+    let tileErrorCount = 0;
+    let fallbackApplied = false;
+    gsiLayer.on("tileerror", () => {
+      tileErrorCount += 1;
+      if (!fallbackApplied && tileErrorCount >= 3) {
+        fallbackApplied = true;
+        map.removeLayer(gsiLayer);
+        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          attribution:
+            '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+          maxZoom: 18,
+        }).addTo(map);
+      }
+    });
 
     L.control.zoom({ position: "bottomright" }).addTo(map);
 
