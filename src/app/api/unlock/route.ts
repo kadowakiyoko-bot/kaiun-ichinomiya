@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-const PASSWORD = process.env.APP_UNLOCK_PASSWORD || "tomitabi888";
+const PASSWORD = process.env.APP_UNLOCK_PASSWORD || "103888";
 const COOKIE_NAME = "tomitabi_unlocked";
 const ONE_YEAR = 60 * 60 * 24 * 365;
 
