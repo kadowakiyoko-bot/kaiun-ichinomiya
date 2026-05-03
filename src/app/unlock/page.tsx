@@ -146,6 +146,7 @@ function UnlockForm() {
               color: "#fff",
               fontSize: 18,
               letterSpacing: "0.3em",
+              textIndent: "0.3em",
               textAlign: "center",
               outline: "none",
             }}
