@@ -144,9 +144,8 @@ function UnlockForm() {
               border: "1px solid rgba(255, 215, 130, 0.4)",
               background: "rgba(255, 255, 255, 0.08)",
               color: "#fff",
-              fontSize: 18,
-              letterSpacing: "0.3em",
-              textIndent: "0.3em",
+              fontSize: 22,
+              letterSpacing: "normal",
               textAlign: "center",
               outline: "none",
             }}
